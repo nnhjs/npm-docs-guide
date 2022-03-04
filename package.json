@@ -1,0 +1,20 @@
+{
+  "name": "nnhungjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnhungjs/npm-started.git"
+  },
+  "keywords": ["nnhungjs"],
+  "author": "Nguyen Nghia Hung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnhungjs/npm-started/issues"
+  },
+  "homepage": "https://github.com/nnhungjs/npm-started#readme"
+}
